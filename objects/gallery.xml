@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery cellDimension="1000" columns="5" zoomOutPerc="20" zoomInPerc="100" frameWidth="20" frameColor="0xFFFFFF" captionColor="0xFFFFFF" enableRightClickOpen="true" >
+
+<image>
+   <url>images/obj01.jpg</url>
+   <caption></caption>
+</image>
+<image>
+   <url>images/obj02.jpg</url>
+   <caption></caption>
+</image>
+<image>
+   <url>images/obj03.jpg</url>
+   <caption></caption>
+</image>
+<image>
+   <url>images/obj04.jpg</url>
+   <caption></caption>
+</image>
+<image>
+   <url>images/obj05.jpg</url>
+   <caption></caption>
+</image>
+<image>
+   <url>images/obj06.jpg</url>
+   <caption></caption>
+</image>
+<image>
+   <url>images/obj07.jpg</url>
+   <caption></caption>
+</image>
+<image>
+   <url>images/obj08.jpg</url>
+   <caption></caption>
+</image>
+<image>
+   <url>images/obj09.jpg</url>
+   <caption></caption>
+</image>
+<image>
+   <url>images/obj10.jpg</url>
+   <caption></caption>
+</image>
+</gallery>

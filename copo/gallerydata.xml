@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery title="a glass" frameColor="0xFFFFFF" frameWidth="10" imagePadding="20" displayTime="6">
+
+<image>
+   <filename>copo1.jpg</filename>
+   <caption>aspect 1</caption>
+   <width>700</width>
+   <height>467</height>
+</image>
+<image>
+   <filename>copo2.jpg</filename>
+   <caption>aspect 1</caption>
+   <width>311</width>
+   <height>467</height>
+</image>
+<image>
+   <filename>copo3.jpg</filename>
+   <caption>aspect 2</caption>
+   <width>311</width>
+   <height>467</height>
+</image>
+<image>
+   <filename>copo4.jpg</filename>
+   <caption>aspect 2</caption>
+   <width>311</width>
+   <height>467</height>
+</image>
+<image>
+   <filename>copo5.jpg</filename>
+   <caption>aspect 3</caption>
+   <width>700</width>
+   <height>467</height>
+</image>
+<image>
+   <filename>copo6.jpg</filename>
+   <caption>aspect 3</caption>
+   <width>311</width>
+   <height>467</height>
+</image>
+<image>
+   <filename>copo7.jpg</filename>
+   <caption>aspect 4</caption>
+   <width>311</width>
+   <height>467</height>
+</image>
+<image>
+   <filename>copo8.jpg</filename>
+   <caption>aspect 4</caption>
+   <width>700</width>
+   <height>467</height>
+</image>
+</gallery>

@@ -1,0 +1,113 @@
+@charset "iso-8859-1";
+/* CSS Document */
+
+body {
+	background-image: url(Obrazki/tlo.jpg);
+}
+
+body,td,th {
+	font-family: Arial, Helvetica, Verdana, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+
+h1
+{font-family: Verdana, Helvetica, sans-serif;
+	font-size: 22px;font-weight:bold;
+	color: #898989;}
+
+a:link {
+	color: #959595;
+	text-decoration:none;
+	font-weight:bold;
+	}
+a:visited {
+	text-decoration: none;
+	color: #959595;
+}
+a:hover {
+	text-decoration: underline;
+	color: #494949;
+}
+a:active {
+	text-decoration: none;
+	color: #494949;
+}
+
+table { border: 0px;}
+
+div.pasek
+{width:1260px;
+height:139px;
+}
+
+div.txt
+{width:900px;
+height:391px;
+padding-top:30px;
+}
+
+div.indx
+{width:1260px;
+height:560px;
+background:white url(img/main.jpg) no-repeat;
+float:right;
+}
+
+
+div.info
+{position:absolute;
+width:1260px;
+height:560px;
+
+margin-left:1260px;
+}
+
+div.contact
+{position:absolute;
+width:1260px;
+height:560px;
+margin-left:2520px;
+}
+
+div.map
+{position:absolute;
+width:1260px;
+height:560px;
+margin-left:3780px;
+}
+
+div.program1
+{position:absolute;
+width:1260px;
+height:560px;
+margin-left:5040px;
+}
+
+div.program2
+{position:absolute;
+width:1260px;
+height:560px;
+margin-left:6300px;
+}
+
+div.guests1
+{position:absolute;
+width:1260px;
+height:560px;
+margin-left:7560px;
+}
+
+div.guests2
+{position:absolute;
+width:1260px;
+height:560px;
+margin-left:8820px;
+}
+
+div.contest
+{position:absolute;
+width:1260px;
+height:560px;
+margin-left:10080px;
+}

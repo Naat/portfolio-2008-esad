@@ -1,0 +1,75 @@
+html, body  
+	{background: #ffffff; 
+	 text-align: left; 
+	 font-size: 10px; 
+	 font-family: tahoma, verdana, helvetica, sans-serif;
+	 color: #333333;
+	 margin:0, auto; padding:0, auto;
+	}
+body
+	{ 
+	 font-size: 1em; 
+	 text-align: left; margin:0, auto; padding:0, auto;
+	 	}
+img 
+  {border: 0px;
+	}
+h1 
+	{font-size: 1.4em; 
+	 font-weight: bold;
+	}
+h2 
+	{font-size: 1.2em;
+	}
+h3
+	{font-size: 1em; 
+	 font-weight: bold;
+	}
+
+	
+a 
+	{color: #cc0066; 
+	 font-size: 1em;
+	}
+a :hover
+	{color: #0099cc; 
+	}
+a:visited 
+	{color: #ffff00;
+	}
+	
+.home
+{background: #ffffff;
+height:29px;
+padding:5px;}
+
+.container
+{bottom:0; position:absolute; width:4125px;}
+
+.container1
+{position:absolute;
+left:0; 
+background:#ffffff url(bg-naat.gif) no-repeat;
+width:100%;
+text-align:center;
+}
+
+.title
+{bottom:0;  
+padding-left:5px;
+width:120px;
+float:left;
+height:500px;
+background: #ffffff;
+
+}
+
+.content
+{bottom:0;
+height:500px;
+width: 4000px;
+background: #ffffff;
+float:right;
+}
+
+table {height:480px; padding-bottom:20px;}

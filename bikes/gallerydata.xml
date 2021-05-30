@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery title="Wooden bikes..." frameColor="0xFFFFFF" frameWidth="10" imagePadding="20" displayTime="6">
+
+<image>
+   <filename>img_4955.jpg</filename>
+   <caption>&nbsp;</caption>
+   <width>900</width>
+   <height>600</height>
+</image>
+<image>
+   <filename>img_4996.jpg</filename>
+   <caption>...designed by Xylon Bikes...</caption>
+   <width>900</width>
+   <height>600</height>
+</image>
+<image>
+   <filename>img_5042.jpg</filename>
+   <caption>...for people who are creative...</caption>
+   <width>900</width>
+   <height>600</height>
+</image>
+<image>
+   <filename>img_5049.jpg</filename>
+   <caption>...who like to spend time in nature...</caption>
+   <width>900</width>
+   <height>600</height>
+</image>
+<image>
+   <filename>img_5058.jpg</filename>
+   <caption>...who like sport...</caption>
+   <width>400</width>
+   <height>600</height>
+</image>
+<image>
+   <filename>img_5066.jpg</filename>
+   <caption>...ecological design...</caption>
+   <width>400</width>
+   <height>600</height>
+</image>
+<image>
+   <filename>img_5146.jpg</filename>
+   <caption>...natural materials...</caption>
+   <width>900</width>
+   <height>600</height>
+</image>
+<image>
+   <filename>img_5200.jpg</filename>
+   <caption>...original form...</caption>
+   <width>900</width>
+   <height>600</height>
+</image>
+<image>
+   <filename>img_5244.jpg</filename>
+   <caption>...unique character...</caption>
+   <width>900</width>
+   <height>600</height>
+</image>
+<image>
+   <filename>img_5275.jpg</filename>
+   <caption>...trendy...</caption>
+   <width>900</width>
+   <height>600</height>
+</image>
+<image>
+   <filename>img_5297.jpg</filename>
+   <caption>www.xylonbikes.com</caption>
+   <width>900</width>
+   <height>600</height>
+</image>
+</gallery>
